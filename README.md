@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu perfil do GitHub!
 ### Meu Nome é Leonardo Ribeiro De Almeida
 Sou um Estudante de Ciencias Da Computação com um grande interesse no desenvolvimento da area tecnologica.
 
-- 🎓 Ciência da Computação - 3°Semestre - Instituto Mauá De Tecnologia 
+- 🎓 Ciência da Computação 
 - 💻 Desenvolvedor de software
 - 🤖 Fascinado por Games e IA 
 
