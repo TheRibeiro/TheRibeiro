@@ -70,8 +70,8 @@ Se você deseja entrar em contato comigo para colaborações, oportunidades ou a
 
 
 
-- Portugues : ███████████████████████ 100%
-- Ingles : ████████████████████░░░░ 80%
+- Portugues :Nativo
+- Ingles : Intermediario
 
 
 ## Interesses
