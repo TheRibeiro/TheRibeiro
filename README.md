@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardoribeiroo)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheRibeiro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-gold-five-32.vercel.app/index.html)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&random=false&width=600&lines=7%C2%BA+Semestre+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Aprendendo+IA+%2B+Automa%C3%A7%C3%A3o;Construindo+enquanto+aprendo;Low+Code+%7C+APIs+%7C+Integra%C3%A7%C3%B5es" alt="Typing SVG" />
 
